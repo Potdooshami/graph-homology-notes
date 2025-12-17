@@ -40,14 +40,17 @@ topologically unprotected
 ## 2.1. Domain wall network
 ### 2.1.1. Domain wall network(DWN)
 $$D:=(P,\Phi,c)$$
-where $P$ is a base graph, mathematically plane graph, 
-$\Phi$ is a order parameter space, mathematically set,
-$c$ is a coloring, mathematically function $c:V(P)\rightarrow \Phi$ whose incidence is differnet.
-### 2.1.2. Phase domain wall network(pDWN)
+where $P$ is a *base graph*, mathematically plane graph,   
+$\Phi$ is a *order parameter set*, mathematically set,  
+$c$ is a *coloring*, mathematically function $c:V(P)\rightarrow \Phi$ whose incidence is differnet.
 ### 2.1.3. Symmetry breaking,  Degenerate ground states, Phase
 #### 2.1.3.1. Symmetry breaking
 #### 2.1.3.2. Degenerate ground states
 #### 2.1.3.3. Phase
+### 2.1.2. Phase domain wall network(pDWN)
+#### Definition
+#### $c_{dw}$
+
 # 3. Examples
 ## 3.1. $Z_2\times Z_2 $
 ### 3.1.1. all dw

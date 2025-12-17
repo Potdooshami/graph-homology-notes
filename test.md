@@ -14,14 +14,14 @@
       - [2.1.3.2. Degenerate ground states](#2132-degenerate-ground-states)
       - [2.1.3.3. Phase](#2133-phase)
 - [3. Examples](#3-examples)
-  - [3.1. $ Z\_2\\times Z\_2 $](#31--z_2times-z_2-)
+  - [3.1. $ Z_2\times Z_2 $](#31--z_2times-z_2-)
     - [3.1.1. all dw](#311-all-dw)
       - [3.1.1.1. vortex, anti-vortex, abab-vortex](#3111-vortex-anti-vortex-abab-vortex)
     - [3.1.2. 01,10 dw](#312-0110-dw)
       - [3.1.2.1. abab vortex](#3121-abab-vortex)
-  - [3.2. $Z\_2\\times Z\_2\\times Z\_2$](#32-z_2times-z_2times-z_2)
-  - [3.3. $Z\_3\\times Z\_3$](#33-z_3times-z_3)
-    - [3.3.1. $z\_{12}, z\_{23}$](#331-z_12-z_23)
+  - [3.2. $Z_2\times Z_2\times Z_2$](#32-z_2times-z_2times-z_2)
+  - [3.3. $Z_3\times Z_3$](#33-z_3times-z_3)
+    - [3.3.1. $z_{12}, z_{23}$](#331-z_12-z_23)
 
 
 

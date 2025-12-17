@@ -39,7 +39,10 @@ topologically unprotected
 # 2. Formalism
 ## 2.1. Domain wall network
 ### 2.1.1. Domain wall network(DWN)
-$$D:=(G,\Phi,c)$$
+$$D:=(P,\Phi,c)$$
+where $P$ is a base graph, mathematically plane graph, 
+$\Phi$ is a order parameter space, mathematically set,
+$c$ is a coloring, mathematically function $c:V(P)\rightarrow \Phi$ whose incidence is differnet.
 ### 2.1.2. Phase domain wall network(pDWN)
 ### 2.1.3. Symmetry breaking,  Degenerate ground states, Phase
 #### 2.1.3.1. Symmetry breaking

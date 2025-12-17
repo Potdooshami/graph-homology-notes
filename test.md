@@ -39,15 +39,16 @@ topologically unprotected
 # 2. Formalism
 ## 2.1. Domain wall network
 ### 2.1.1. Domain wall network(DWN)
+$$D:=(G,\Phi,c)$$
 ### 2.1.2. Phase domain wall network(pDWN)
 ### 2.1.3. Symmetry breaking,  Degenerate ground states, Phase
 #### 2.1.3.1. Symmetry breaking
 #### 2.1.3.2. Degenerate ground states
 #### 2.1.3.3. Phase
 # 3. Examples
-## 3.1. $ Z_2\times Z_2 $
+## 3.1. $Z_2\times Z_2 $
 ### 3.1.1. all dw
-#### 3.1.1.1. vortex, anti-vortex, abab-vortex
+#### 3.1.1.1. vortex, anti-vortex, abab-vortex *
 ### 3.1.2. 01,10 dw
 #### 3.1.2.1. abab vortex
 ## 3.2. $Z_2\times Z_2\times Z_2$
